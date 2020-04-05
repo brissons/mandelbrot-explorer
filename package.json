@@ -1,0 +1,47 @@
+{
+  "homepage": "http://brissons.github.io/mandelbrot-explorer",
+  "name": "mandelbrot-explorer",
+  "version": "1.0.0",
+  "description": "Application for exploring the mandelbrot set.",
+  "main": "src/index.js",
+  "dependencies": {
+    "@material-ui/core": "^4.9.7",
+    "bigdecimal": "^0.6.1",
+    "react": "16.12.0",
+    "react-addons-css-transition-group": "^15.6.2",
+    "react-animated-burgers": "^1.2.7",
+    "react-blur": "^0.6.0",
+    "react-css-burger": "^0.2.0",
+    "react-device-detect": "^1.11.14",
+    "react-dom": "16.12.0",
+    "react-graceful-image": "^1.2.12",
+    "react-hamburgers": "^1.0.0",
+    "react-loading-overlay": "^1.0.1",
+    "react-lottie": "^1.2.3",
+    "react-scale-text": "^1.2.2",
+    "react-scripts": "3.0.1",
+    "react-spinners": "^0.8.1",
+    "react-spinners-kit": "^1.9.1",
+    "react-textfit": "^1.1.0",
+    "react-transition-group": "^1.2.1",
+    "styled-components": "^5.0.1"
+  },
+  "devDependencies": {
+    "gh-pages": "^2.2.0",
+    "typescript": "3.3.3"
+  },
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}

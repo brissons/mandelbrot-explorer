@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/mandelbrot-explorer/static/css/main.8ac076b1.chunk.css",
+    "main.js": "/mandelbrot-explorer/static/js/main.c6f57e5d.chunk.js",
+    "main.js.map": "/mandelbrot-explorer/static/js/main.c6f57e5d.chunk.js.map",
+    "runtime~main.js": "/mandelbrot-explorer/static/js/runtime~main.64c23005.js",
+    "runtime~main.js.map": "/mandelbrot-explorer/static/js/runtime~main.64c23005.js.map",
+    "static/js/2.8f8a671f.chunk.js": "/mandelbrot-explorer/static/js/2.8f8a671f.chunk.js",
+    "static/js/2.8f8a671f.chunk.js.map": "/mandelbrot-explorer/static/js/2.8f8a671f.chunk.js.map",
+    "index.html": "/mandelbrot-explorer/index.html",
+    "precache-manifest.c780625d88563b8cfbfd80e626b0b72a.js": "/mandelbrot-explorer/precache-manifest.c780625d88563b8cfbfd80e626b0b72a.js",
+    "service-worker.js": "/mandelbrot-explorer/service-worker.js",
+    "static/css/main.8ac076b1.chunk.css.map": "/mandelbrot-explorer/static/css/main.8ac076b1.chunk.css.map",
+    "static/media/placeHolder.png": "/mandelbrot-explorer/static/media/placeHolder.56431f47.png",
+    "static/media/restart.svg": "/mandelbrot-explorer/static/media/restart.26926850.svg"
+  }
+}
