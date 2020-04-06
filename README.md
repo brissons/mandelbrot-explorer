@@ -6,7 +6,7 @@
 
 > A silly little React application to navigate the Mandelbrot set.
 
-The application is hosted on GitHub pages here: http://brissons.github.io/mandelbrot-app.
+The application is hosted on GitHub pages [here](http://brissons.github.io/mandelbrot-app).
 
 Note: The [downstream service](https://github.com/brissons/mandelbrot-server) is hosted for free on Heroku. The application will be slow to load when used for the first time.
 
