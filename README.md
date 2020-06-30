@@ -13,6 +13,6 @@ Note: The [downstream service](https://github.com/brissons/mandelbrot-server) is
 ## Built with
 * [React](https://reactjs.org/) - User Interface
   * [react-spinners-kit](https://www.npmjs.com/package/react-spinners-kit) - Loading Spinners
-  * [react-textfit](https://www.npmjs.com/package/react-textfit) - Dyanmic text sizing
+  * [react-textfit](https://www.npmjs.com/package/react-textfit) - Dynamic text sizing
 * [npm](https://www.npmjs.com/) - Package Manager
 * [Icons8](https://icons8.com/) - Icons
